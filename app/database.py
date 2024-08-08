@@ -2,7 +2,7 @@ from sqlalchemy import create_engine, MetaData
 from sqlalchemy.orm import sessionmaker
 
 # URL de conexão com o banco de dados SQLite
-DATABASE_URL = "sqlite:///./test.db"
+DATABASE_URL = "seu banco de dados"
 
 # Objeto Metadata para gerenciar o esquema do banco de dados
 metadata = MetaData()
