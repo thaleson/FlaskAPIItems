@@ -1,0 +1,8 @@
+fastapi
+Flask
+Flask-Cors
+Flask-SocketIO
+requests
+SQLAlchemy
+pydantic
+uvicorn
